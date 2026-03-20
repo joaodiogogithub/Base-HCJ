@@ -21,7 +21,6 @@ O **Base HCJ** foi criado com o objetivo de:
 
 ```
 📦 base-hcj
- ┣ 📂 assets
  ┣ 📂 scripts
  ┣ 📂 styles
  ┣ 📜 index.html
@@ -32,7 +31,6 @@ O **Base HCJ** foi criado com o objetivo de:
 | Pasta / Arquivo | Função                               |
 | --------------- | ------------------------------------ |
 | `index.html`    | Estrutura principal do projeto       |
-| `assets/`       | Imagens, ícones e arquivos estáticos |
 | `scripts/`      | Arquivos JavaScript                  |
 | `styles/`       | Arquivos CSS                         |
 
