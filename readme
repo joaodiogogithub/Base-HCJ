@@ -1,0 +1,108 @@
+# 🚀 Base HCJ
+
+Uma base simples, limpa e organizada para iniciar projetos utilizando **HTML, CSS e JavaScript**.
+
+Ideal para quem quer começar rápido sem perder tempo configurando estrutura inicial.
+
+---
+
+## 📌 Sobre o projeto
+
+O **Base HCJ** foi criado com o objetivo de:
+
+* ⚡ Acelerar o desenvolvimento de novos projetos
+* 📁 Manter uma estrutura organizada desde o início
+* 🧼 Evitar retrabalho com configurações básicas
+* 🎯 Focar diretamente na solução
+
+---
+
+## 🧱 Estrutura do projeto
+
+```
+📦 base-hcj
+ ┣ 📂 assets
+ ┣ 📂 scripts
+ ┣ 📂 styles
+ ┣ 📜 index.html
+```
+
+### 📂 Descrição das pastas
+
+| Pasta / Arquivo | Função                               |
+| --------------- | ------------------------------------ |
+| `index.html`    | Estrutura principal do projeto       |
+| `assets/`       | Imagens, ícones e arquivos estáticos |
+| `scripts/`      | Arquivos JavaScript                  |
+| `styles/`       | Arquivos CSS                         |
+
+---
+
+## ▶️ Como usar
+
+1. Clone o repositório:
+
+```bash
+git clone 
+```
+
+2. Abra o projeto no seu editor de código
+
+3. Para começar:
+
+   * 🧹 Apague o conteúdo dentro da tag `<main>`
+   * 🎨 Limpe o arquivo `styles/base.css`
+
+4. Comece a desenvolver 🚀
+
+---
+
+## 🖥️ Preview da base
+
+O projeto já vem com uma estrutura inicial contendo:
+
+* Título principal
+* Texto de descrição
+* Card com estrutura de pastas
+* Aviso inicial
+
+---
+
+## 🧠 Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## ⚠️ Observação importante
+
+> Para iniciar seu projeto do zero, lembre-se de remover o conteúdo base presente no `<main>` e no CSS.
+
+---
+
+## ✨ Personalização
+
+Você pode adaptar essa base para:
+
+* Landing pages
+* Projetos pessoais
+* Protótipos rápidos
+* Estudos
+
+---
+
+## 📄 Licença
+
+Este projeto está livre para uso e modificação.
+
+---
+
+## 💡 Autor
+
+Desenvolvido para facilitar a vida de quem quer começar rápido e com organização.
+
+---
+
+⭐ Se esse projeto te ajudou, considere dar um **star** no repositório!

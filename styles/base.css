@@ -1,0 +1,124 @@
+/* Reset básico para remover espaçamentos padrões */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Definição de fonte moderna e fundo com gradiente */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    /* Fundo com gradiente suave */
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+
+    /* Centraliza o conteúdo na tela */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    color: #f1f5f9;
+}
+
+/* Container principal */
+.container {
+    text-align: center;
+
+    /* Animação de entrada */
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Título principal */
+.title {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+
+    /* Gradiente no texto */
+    background: linear-gradient(90deg, #38bdf8, #818cf8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    /* Animação suave */
+    animation: slideDown 0.8s ease;
+}
+
+/* Texto descritivo */
+.resume {
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+    opacity: 0.8;
+}
+
+.disclaimer{
+    padding-top: 30px;
+    color:rgb(255, 120, 120);
+}
+
+/* Card com efeito glass (vidro) */
+.card {
+    background: rgba(255, 255, 255, 0.05);
+
+    /* Efeito de desfoque no fundo */
+    backdrop-filter: blur(10px);
+
+    padding: 25px;
+    border-radius: 15px;
+
+    /* Sombra suave */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+
+    /* Transição para hover */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Efeito ao passar o mouse */
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
+
+/* Título do card */
+.card h2 {
+    margin-bottom: 15px;
+}
+
+/* Lista */
+.card ul {
+    list-style: none;
+}
+
+/* Itens da lista */
+.card li {
+    padding: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Remove borda do último item */
+.card li:last-child {
+    border-bottom: none;
+}
+
+/* ===== ANIMAÇÕES ===== */
+
+/* Fade suave */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* Slide vindo de cima */
+@keyframes slideDown {
+    from {
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
