@@ -8,7 +8,7 @@ Ideal para quem quer começar rápido sem perder tempo configurando estrutura in
 
 📌 Sobre o projeto
 
-O *Base HCJ* foi criado com o objetivo de:
+O Base HCJ foi criado com o objetivo de:
 
 * ⚡ Acelerar o desenvolvimento de novos projetos
 * 📁 Manter uma estrutura organizada desde o início
@@ -19,20 +19,20 @@ O *Base HCJ* foi criado com o objetivo de:
 
 🧱 Estrutura do projeto
 
-``
+
 📦 base-hcj
  ┣ 📂 scripts
  ┣ 📂 styles
  ┣ 📜 index.html
-``
+
 
 📂 Descrição das pastas
 
 | Pasta / Arquivo | Função                               |
 | --------------- | ------------------------------------ |
-| `index.html`    | Estrutura principal do projeto       |
-| `scripts/`      | Arquivos JavaScript                  |
-| `styles/`       | Arquivos CSS                         |
+| index.html    | Estrutura principal do projeto       |
+| scripts/      | Arquivos JavaScript                  |
+| styles/       | Arquivos CSS                         |
 
 ---
 
@@ -40,9 +40,10 @@ O *Base HCJ* foi criado com o objetivo de:
 
 1. Clone o repositório:
 
-``bash
+bash:
+
 git clone https://github.com/joaodiogogithub/Base-HCJ
-``
+
 
 2. Abra o projeto no seu editor de código
 
