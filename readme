@@ -1,4 +1,4 @@
-# 🚀 Base HCJ
+🚀 Base HCJ
 
 Uma base simples, limpa e organizada para iniciar projetos utilizando **HTML, CSS e JavaScript**.
 
@@ -6,7 +6,7 @@ Ideal para quem quer começar rápido sem perder tempo configurando estrutura in
 
 ---
 
-## 📌 Sobre o projeto
+📌 Sobre o projeto
 
 O **Base HCJ** foi criado com o objetivo de:
 
@@ -26,7 +26,7 @@ O **Base HCJ** foi criado com o objetivo de:
  ┣ 📜 index.html
 ```
 
-### 📂 Descrição das pastas
+📂 Descrição das pastas
 
 | Pasta / Arquivo | Função                               |
 | --------------- | ------------------------------------ |
@@ -36,7 +36,7 @@ O **Base HCJ** foi criado com o objetivo de:
 
 ---
 
-## ▶️ Como usar
+▶️ Como usar
 
 1. Clone o repositório:
 
@@ -55,7 +55,7 @@ git clone https://github.com/joaodiogogithub/Base-HCJ
 
 ---
 
-## 🖥️ Preview da base
+🖥️ Preview da base
 
 O projeto já vem com uma estrutura inicial contendo:
 
@@ -66,7 +66,7 @@ O projeto já vem com uma estrutura inicial contendo:
 
 ---
 
-## 🧠 Tecnologias utilizadas
+🧠 Tecnologias utilizadas
 
 * HTML5
 * CSS3
@@ -74,13 +74,13 @@ O projeto já vem com uma estrutura inicial contendo:
 
 ---
 
-## ⚠️ Observação importante
+⚠️ Observação importante
 
 > Para iniciar seu projeto do zero, lembre-se de remover o conteúdo base presente no `<main>` e no CSS.
 
 ---
 
-## ✨ Personalização
+✨ Personalização
 
 Você pode adaptar essa base para:
 
@@ -91,16 +91,10 @@ Você pode adaptar essa base para:
 
 ---
 
-## 📄 Licença
+📄 Licença
 
 Este projeto está livre para uso e modificação.
 
 ---
 
-## 💡 Autor
-
-Desenvolvido para facilitar a vida de quem quer começar rápido e com organização.
-
----
-
-⭐ Se esse projeto te ajudou, considere dar um **star** no repositório!
+⭐ Se esse projeto te ajudou, considere dar um STAR no repositório!
