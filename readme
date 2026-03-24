@@ -41,7 +41,7 @@ O **Base HCJ** foi criado com o objetivo de:
 1. Clone o repositório:
 
 ```bash
-git clone 
+git clone https://github.com/joaodiogogithub/Base-HCJ
 ```
 
 2. Abra o projeto no seu editor de código
